@@ -46,7 +46,10 @@ A ready-to-develop Laravel 12 project featuring the Breeze starter kit, a custom
 
 ## Customization
 
-- **Dashboard**: Modify Blade templates in `resources/views/admin`.
+- **Fonts**: Locally added bunny fonts can be found at `resources/fonts/figtree` & implemented through `resources/css/app.css`.
+- **Layouts**: Modify Blade templates in `resources/views/layouts`.
+- **Dashboard**: Modify Blade templates in `resources/views/backend`.
+- **Client/Frontend**: Modify Blade templates in `resources/views/frontend`.
 - **Theme Switching**: Uses Alpine.js for toggling dark mode; see `resources/js/theme.js`.
 - **Icons**: Use FontAwesome 7 classes in your Blade files.
 
